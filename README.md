@@ -1,2 +1,2 @@
 # Final-Python-project-for-Data-science
-inal Python project for Data science
+final Python project for Data science
